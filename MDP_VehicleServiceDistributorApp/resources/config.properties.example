@@ -1,0 +1,10 @@
+PARSING_URL=https://www.pkwteile.de/autoteile/bmw-ersatzteile/3-e90/136829/10130/bremsbelag
+REGISTER_PORT=6000
+REGISTER_HOST=127.0.0.1
+UPDATE_SUPPLY_PORT=5000
+UPDATE_SUPPLY_HOST=127.0.0.1
+QUEUE_NAME=test
+MQ_HOST=localhost
+MQ_USERNAME=[mq-username]
+MQ_PASSWORD=[mq-password]
+CONFIRMED_ORDER_PORT=51234

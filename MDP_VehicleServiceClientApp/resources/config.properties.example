@@ -1,0 +1,9 @@
+BASE_URL_CLIENTS=http://localhost:8080/MDP_VehicleServiceApp/api/clients
+LOGIN_URL=http://localhost:8080/MDP_VehicleServiceApp/api/clients/login
+BASE_URL_APPOINTMENTS=http://localhost:8080/MDP_VehicleServiceApp/api/appointments
+MULTICAST_HOST=224.0.0.11
+MULTICAST_PORT=20000
+CHAT_PORT=8443
+CHAT_HOST=127.0.0.1
+KEY_STORE_PATH=[file-path-to-keystore]
+KEY_STORE_PASSWORD=[keystore-password]
